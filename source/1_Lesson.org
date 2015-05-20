@@ -63,7 +63,7 @@
 :END:
 - The circuit symbol for a transistor looks like this.
 [[file:http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BJT_symbol_NPN.svg/200px-BJT_symbol_NPN.svg.png]]
-- The legs have been labeled B,C and E.
+- The legs have been labelled B,C and E.
 - Now look at the simulation below. This shows a transistor connected to a 5V Power supply, with an LED.
 [[file:img/transistor.gif]]
 - Connected to the =base= of the transistor is a signal generator.
