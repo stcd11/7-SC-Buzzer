@@ -13,7 +13,7 @@
     </div>
 </div>
 #+END_HTML
-* [[file:pages/1_Lesson.html][Week 1 - Transistors]
+* [[file:pages/1_Lesson.html][Week 1 - Transistors]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
