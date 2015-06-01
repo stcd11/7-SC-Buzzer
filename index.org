@@ -17,27 +17,27 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/2_Lesson.html][Week 2 - Soldering]
+* [[file:pages/2_Lesson.html][Week 2 - Soldering]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/3_Lesson.html][Week 3 - Flying Leads]
+* COMMENT [[file:pages/3_Lesson.html][Week 3 - Flying Leads]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/4_Lesson.html][Week 4 - Plastics]
+* COMMENT [[file:pages/4_Lesson.html][Week 4 - Plastics]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/5_Lesson.html][Week 5 - Line Bending]
+* COMMENT [[file:pages/5_Lesson.html][Week 5 - Line Bending]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/6_Lesson.html][Week 6 - Transistors]
+* COMMENT [[file:pages/6_Lesson.html][Week 6 - Transistors]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/assessment.html][Assessment]]
+* COMMENT  [[file:pages/assessment.html][Assessment]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
