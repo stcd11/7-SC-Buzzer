@@ -1,0 +1,143 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: The Door Buzzer
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/MarcScott/7-SC-Buzzer">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Assembling your door buzzer
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- The plastic we're using for the door buzzer case is called Polymethyl methacrylate, but is more commonly known as acrylic.
+- It is a thermoplastic, which means that we can heat it up and bend it into any shape we like.
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- The first task is to countersink the back of the door buzzer case.
+- Use a countersink-cutter to create the countersinks as shown below.
+[[file:img/build1.png]]
+- Make sure your M3x12 machine screws sit flush to the surface of acrylic.
+- Then secure them in place with M3 nuts.
+[[file:img/build2.png]]
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Now you can secure your soldered board to the back of the case.
+- You'll need to use a pair of threaded spacers to secure the board in place.
+[[file:img/build3.png]]
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Now we need to shape the edge strip of the buzzer, so that if fits around the base.
+- To do this we're going to use a line bender.
+- The following video will show you how to use the line bender.
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AO7vB_5c8g0" frameborder="0" allowfullscreen></iframe>
+#+end_html
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Once the edge strip has been line bent, you can place it around the base of the door buzzer.
+[[file:img/build4.png]]
+- And then secure the top using some more M3 machine screws that will screw into the threaded spacers.
+[[file:img/build5.png]]
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Take a video of your buzzer working when you press the button.

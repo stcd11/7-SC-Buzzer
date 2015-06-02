@@ -21,23 +21,15 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* COMMENT [[file:pages/3_Lesson.html][Week 3 - Flying Leads]
+* [[file:pages/3_Lesson.html][Week 3 - Plastics]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* COMMENT [[file:pages/4_Lesson.html][Week 4 - Plastics]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: link-heading
-:END:
-* COMMENT [[file:pages/5_Lesson.html][Week 5 - Line Bending]
+* [[file:pages/4_Lesson.html][Week 4 - Assembley and Line Bending]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
 * COMMENT [[file:pages/6_Lesson.html][Week 6 - Transistors]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: link-heading
-:END:
-* COMMENT  [[file:pages/assessment.html][Assessment]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
