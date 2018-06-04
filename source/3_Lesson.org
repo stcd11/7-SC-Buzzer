@@ -129,6 +129,6 @@
 :END:
 - Have a look at this video from the 1940s
 #+begin_html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EZhyUIFEn3s?list=PLjDkVNj1o5Zuha6_sobMA9BYOCnI9tiQ_" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iugJ8uxut98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 #+end_html
 - Explain, with diagrams, what are the differences between thermoplastics and thermosetting polymers.
