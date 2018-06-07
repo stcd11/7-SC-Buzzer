@@ -112,6 +112,9 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHXH_kPDDjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+end_html
 - Now we need to solder on the LED.
 - To allow the LED to be mounted in the case, we're going to solder it onto flying leads.
 - Firstly, cut around 10cm of red and black =multicore= wire and strip the ends. Also find an 5mm LED in the colour you desire.
@@ -130,6 +133,9 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:      
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ujgq1fSPyyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+end_html
 - We need to do the same with the push-to-make switch
 - Twist red and black multicore wire through the holes in the legs of the switch.
 [[file:img/IMG_1475.JPG]]
