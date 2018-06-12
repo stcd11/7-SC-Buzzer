@@ -95,7 +95,12 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Firstly, follow the instructions given to you by your teacher and line bend the outer frame of your project.
+- Take a photo of the completed line bent frame and upload it to the silver badge on [[http://www.bournetolearn.com][www.bournetolearn.com]]
 ** Build It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
@@ -104,58 +109,33 @@
 - Use a countersink-cutter to create the countersinks as shown below.
 [[file:img/build1.png]]
 - Make sure your M3x6 machine screws sit flush to the surface of acryclic.
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
-
-** Design It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: design
-:END:
-
-** Test It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: test
-:END:
-
-** Run It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: run
-:END:
-
-** Document It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: document
-:END:
-
-** Code It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: code
-:END:
-
-** Program It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: program
-:END:
-
-** Try It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: try
-:END:
-
-** Badge It
+- Next you will need to add two M3 nuts onto the machine screws on the opposite side.
+[[./img/build2.png]]
+- Now place the PCB on top of the screws, and then the barrel nuts on top of these. make sure you do not over tighten the nuts.
+[[./img/build3.png]]
+- You can now attach the LED using a LED clip.
+- Next unscrew the nut on the PTM switch and push it into position. Then place the nut on and *tighten it up.*
+- Now run the wire through the line bent frame and place it in position.
+- Plug in the battery and put it in place. *Make sure you test the circuit now before putting the front cover on.*
+[[./img/build4.png]]
+- Finally, place the front cover in place and put two more machine screws in place and tighten them up.
+[[./img/build5.png]]
+** Badge It - Silver and Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
-** Save It
+- Take photos of both sides of your project.
+- /Gold/ - Assemble a working door buzzer housing.
+- /Platinum/ - Assemble a high-quality, working door buzzer
+** Evaluate It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: save
+:HTML_CONTAINER_CLASS: test
 :END:
-
+- /Silver/ - Identify good aspects of your product, and suggest a way it could be improved
+- /Gold/ - Write a short evaluation including a self-evaluation
+- /Platinum/ - Write a detailed evaluation of your work
+** Extension
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Customise the front of your door buzzer with images and text using 2D Design
