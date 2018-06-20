@@ -1,0 +1,220 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil 
+#+TITLE: The Door Buzzer - Circuit Design
+#+AUTHOR: Paul Dougall
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/stcd11/7-SC-DoorBuzzer">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+#+BEGIN_HTML
+<object data="js/LED.html" width='800px' height='500px'></object>
+#+END_HTML
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+<object data="js/Ohms_Law.html" width='400px' height='200px'></object>
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Using Circuit Wizard
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- We're now going to design our Door Buzzer.
+- The first thing we'll need to do is design a circuit and a PCB. To do this we use a program called /Circuit Wizard/.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+- Find the Circuit Wizard application and open it.
+- Click on File in the menu bar and then New from the context menu.
+- Choose =Circuit with GENIE Flowchart= from the dialogue box and click OK.
+[[file:img/CW1.png]]
+- On the far right of the screen you'll see a gallery of components you can use.
+[[file:img/CW2.png]]
+- Choose =Power Supplies= and then find the symbol for a =Battery=
+file:img/DB1.png
+- Drag a battery onto the page.
+- Our LED Torch will be powered by one 9V battery so we need to double left click on the battery and change the 5V to 9V. 
+- Next we need an 1K resistor. In the Gallery, find the resistors and add one to the page. The default is 1K so we don't need to change the value but will need to rotate it so it looks like this.
+file:img/DB2.png
+- Next we need a switch. Go the gallery and select push to make. Add that to the page so it looks like this.
+file:img/DB3.png
+- Time for a transistor. Find them in the gallery and add an NPN transistor to our circuit; like this.
+[[./img/DB4.png]]
+- Now we are going to add the buzzer. From the gallery find the folder that says audio and add the buzzer as below.
+[[./img/DB5.png]]
+- Nearly there, let's add the LED. Find LEDs under the Light Emitting Diodes.
+file:img/DB6.png
+-Last part - let's connect a final 330 ohm resistor and the circuit will be complete. Remember to change the value of the resistor to 330 and remove the =k=.
+- For the wiring you may find it easier to connect the end of the buzzer to the LED rather than the other way round and then connect the collector to the ground.
+file:img/DB8.png
+ 
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+- Let's try out our circuit.
+- In the tool bar at the top of the screen is a play button.
+file:img/CW9.png
+- Click the button and then test out your circuit by pushing the switch.
+- Hopefully you light and sound!
+
+* Assessment
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload a screenshot of your working circuit for the badge.
+
+* Preparing to design a PCB
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A PCB is a Printed Circuit Board. This is a laminate material with copper printed on the surface. Because the copper parts are metal they allow electric current to flow through them.
+- The PCB you'll be using in your Door Buzzer looks like this
+file:img/DB10.jpg
+file:img/DB11.jpg
+
+- Let's use Circuit Wizard to design the PCB
+- Click on the icon shown in the toolbar to start the PCB wizard.
+[[./img/PCB3.png]]
+- Click on Next
+[[./img/PCB4.png]]
+- Choose the option =Single-Sided; Thin Tacks= and don't forget to check the tick box at the bottom, so we can customise the layout
+[[./img/PCB5.png]]
+- We now get to choose the size of the board, but we can edit this later so let's simply click on =Next=
+[[./img/PCB6.png]]
+- On the next screen we can customise the types of components we get to use.
+file:img/DB12.png
+
+- Next you can choose the types of copper pads you want to use by default. We're best off going for Standard sized pads, to help use keep our soldering neat.
+[[./img/PCB9.PNG]]
+- The next screen allows us to decide if we want Circuit Wizard to place components for us. This can be useful sometimes, but most of the time, it won't do as nice a job as a human can. Uncheck the box and click =Next=.
+[[./img/PCB10.png]]
+-The last screen prompts us to =Convert= our circuit, so go ahead and click it.
+[[./img/PCB11.png]]
+* Designing a PCB
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Your PCB should look something like this.
+file:img/DB13.png
+- Place your components on the board, so it looks something like this.
+
+file:img/DB14.png
+
+- Now we need to place some pads on the board, so that we can connect up our cells.
+- On the left hand side click unpopulated view this should make things easier to see.
+- Select the pad icon from the toolbar.
+file:img/PCB14.png
+
+- Place pad close to the bottom of the switch as shown below.
+file:img/PCB15.png
+- Now we'll need to connect up our components. Choose the tracks icon from the toolbar.
+file:img/PCB16.png
+
+- Now draw on the tracks as shown below.
+file:img/DB15.png
+
+- Add labels and move them around until it looks like this. If you right click you can add a caption. This can be moved into place. Extra ones can simply be deleted.
+
+file:img/DB16.png
+
+* Assessment
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload your completed PCB for the badge.
