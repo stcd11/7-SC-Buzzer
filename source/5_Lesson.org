@@ -163,18 +163,18 @@ file:img/DB11.jpg
 - Click on Next
 [[./img/PCB4.png]]
 - Choose the option =Single-Sided; Thin Tacks= and don't forget to check the tick box at the bottom, so we can customise the layout
-[[./img/PCB5.png]]
+file:img/PCB5.png
 - We now get to choose the size of the board, but we can edit this later so let's simply click on =Next=
-[[./img/PCB6.png]]
+file:img/PCB6.png
 - On the next screen we can customise the types of components we get to use.
 file:img/DB12.png
 
 - Next you can choose the types of copper pads you want to use by default. We're best off going for Standard sized pads, to help use keep our soldering neat.
-[[./img/PCB9.PNG]]
+file:img/PCB9.png
 - The next screen allows us to decide if we want Circuit Wizard to place components for us. This can be useful sometimes, but most of the time, it won't do as nice a job as a human can. Uncheck the box and click =Next=.
-[[./img/PCB10.png]]
+file:img/PCB10.png
 -The last screen prompts us to =Convert= our circuit, so go ahead and click it.
-[[./img/PCB11.png]]
+file:img/PCB11.png
 * Designing a PCB
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -194,11 +194,7 @@ file:img/DB14.png
 
 - Now we need to place some pads on the board, so that we can connect up our cells.
 - On the left hand side click unpopulated view this should make things easier to see.
-- Select the pad icon from the toolbar.
-file:img/PCB14.png
 
-- Place pad close to the bottom of the switch as shown below.
-file:img/PCB15.png
 - Now we'll need to connect up our components. Choose the tracks icon from the toolbar.
 file:img/PCB16.png
 
