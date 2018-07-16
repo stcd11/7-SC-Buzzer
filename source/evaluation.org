@@ -121,7 +121,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :END:
 - Use the snipping tool and take a screenshot of your progress ladders as they are currently.
 - Using the bar graphs, discuss the following:
- 1. Which of the Design Engineering(DE) outcomes have you achived the highest points in?
+ 1. Which of the Design Engineering(DE) outcomes have you achieved the highest number of points in?
  2. Now explain why you think this is your best outcome.
  3. Which outcome do you have the least points in?
  4. Explain why you think you have the least points in this outcome?
@@ -130,8 +130,8 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For you current project, indentify *and explain* 2 tasks that you feel went very well?
-- Now identify 2 tasks that you feel did not go well and why?
+- For your current project, indentify *and explain* 2 tasks that you feel went very well?
+- Now identify 2 tasks that you feel did not go well *and why*?
 - How would you improve on the above 2 tasks if you were to build the project again?
 ** Platinum
 :PROPERTIES:
@@ -144,5 +144,5 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
  2. How well you managed the making?
  3. How well you managed the research?
  4. How well you managed the designing?
-- Amke sure you explain all of your answers *(Why do you think this)*?
+- Make sure you explain all of your answers *(Why do you think this)*?
 
