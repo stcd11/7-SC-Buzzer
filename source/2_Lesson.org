@@ -148,7 +148,8 @@
 :END:      
 - Lastly you need to solder your battery snap in place.
 - Feed the leads of your battery snap through the strain hole and then down into the solder holes as shown.
-[[file:img/IMG_1477.JPG]]
+[[file:img/IMG_1478.JPG]]
+[[file:img/IMG_1479.JPG]]
 - Then solder them in place.
 ** Badge It
 :PROPERTIES:
