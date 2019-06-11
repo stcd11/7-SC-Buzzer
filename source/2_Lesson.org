@@ -155,5 +155,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
 - Take photos of your board from both sides.
+
+- *Silver* - Produce a soldered PCB (Mostly complete)
+- *Gold* - Produce a working PCB has neat wiring OR neat soldering
+- *Platinum* - Your working circuit has both neat wiring and soldering - IMAGE of the SOLDER SIDE
+
+
