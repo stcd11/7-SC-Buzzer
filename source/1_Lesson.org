@@ -73,7 +73,8 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Try and explain what is causing the LED to switch on and off again.
+- Copy an image of the BC547B transistor and label each pin.
+- In the circuit above, try and explain what is causing the LED to switch on and off again.
 - Make sure your are using the following terms:
   1. Base
   2. Collector
@@ -82,4 +83,11 @@
   5. LED
   6. Current
   7. Voltage
+
+- Your badge will be awarded by the quality of your explanation to the circuit above.
+- The silver badge must include the diagram.
+
+- *Silver* - A *reasonable* attempt at an explanation of the circuit *plus* labelled image of BC547B
+- *Gold* - A *correct* explanation that uses the term base, collector and emitter.
+- *Platinum* - A *detailed* explanation using all the terms from the badge task
 
