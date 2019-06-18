@@ -132,3 +132,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iugJ8uxut98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 #+end_html
 - Explain, with diagrams, what are the differences between thermoplastics and thermosetting polymers.
+- *Silver* - A reasonable attempt at describing the difference between the types of plastics.
+- *Gold* - A good explanation, with 3 examples of each.
+- *Platinum* - An excellent explanation of the different uses of several types of plastics.
