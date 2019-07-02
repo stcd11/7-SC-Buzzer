@@ -108,7 +108,7 @@
 - Choose =Power Supplies= and then find the symbol for a =Battery=
 file:img/DB1.png
 - Drag a battery onto the page.
-- Our LED Torch will be powered by one 9V battery so we need to double left click on the battery and change the 5V to 9V. 
+- Our Door Buzzer will be powered by one 9V battery so we need to double left click on the battery and change the 5V to 9V. 
 - Next we need an 1K resistor. In the Gallery, find the resistors and add one to the page. The default is 1K so we don't need to change the value but will need to rotate it so it looks like this.
 file:img/DB2.png
 - Next we need a switch. Go the gallery and select push to make. Add that to the page so it looks like this.
