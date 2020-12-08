@@ -118,16 +118,16 @@
 - Now we need to solder on the LED.
 - To allow the LED to be mounted in the case, we're going to solder it onto flying leads.
 - Firstly, cut around 10cm of red and black =multicore= wire and strip the ends. Also find an 5mm LED in the colour you desire.
-[[file:img/IMG_1470.JPG]]
+[[./img/IMG_1470.JPG]]
 - Now apply a little bit of solder to the long leg of the LED.
-[[file:img/IMG_1471.JPG]]
-- Then apply a little solder to the stripped end of the red wire.
+[[./img/IMG_1471.JPG]]
+- then apply a little solder to the stripped end of the red wire.
 - Now you can hold the two together, and use your soldering iron to apply a little heat. The solder will melt and bond the two together.
-[[file:img/IMG_1472.JPG]]
+[[./img/IMG_1472.JPG]]
 - Now slide some heatshrink up the wire so that it covers the solder join. Use the edge of your iron to heat the heatshrink.
-[[file:img/IMG_1473.JPG]]
+[[./img/IMG_1473.JPG]]
 - Repeat this with the short leg and the black wire, then twist the wires together.
-[[file:img/IMG_1474.JPG]]
+[[./img/IMG_1474.JPG]]
 - You can now solder the flying leads into the board.
 ** Build It
 :PROPERTIES:
