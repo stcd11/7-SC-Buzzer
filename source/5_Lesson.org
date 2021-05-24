@@ -111,7 +111,7 @@ file:img/DB1.png
 - Our Door Buzzer will be powered by one 9V battery so we need to double left click on the battery and change the 5V to 9V. 
 - Next we need an 1K resistor. In the Gallery, find the resistors and add one to the page. The default is 1K so we don't need to change the value but will need to rotate it so it looks like this.
 file:img/DB2.png
-- Next we need a switch. Go the gallery and select push to make. Add that to the page so it looks like this.
+- Next we need a switch. Go to the gallery and select the 'push to make' switch. Drag it across to the page so that to the page so it looks like this.
 file:img/DB3.png
 - Time for a transistor. Find them in the gallery and add an NPN transistor to our circuit; like this.
 [[./img/DB4.png]]
